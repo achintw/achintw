@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Achint Tiwary.</h1>
+<h1 align="center">Hey, I'm Achint.</h1>
 <h3 align="center">Go ahead, explore the depths of my abilities – I assure you, the experience won't disappoint.</h3>
 
 - 👨‍💻 All of my projects are available at [-my works-](-my works-)
