@@ -1,4 +1,4 @@
-<h1 align="center">I'm Achint Tiwary</h1>
+<h1 align="center">Hey, I'm Achint.</h1>
 <!-- <h3 align="center">Experience what I can do, dive in.</h3>
 
 <div>
