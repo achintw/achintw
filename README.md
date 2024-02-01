@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Achint.</h1>
-<h3 align="center">Full-stack developer, dive in.</h3>
+<h3 align="center">Checkout what I can do, dive in.</h3>
 
 - 👨‍💻 All of my projects are available at [-my works-](-my works-)
 
