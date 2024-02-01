@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [-my works-](-my works-)
 
-- 📫 How to reach me **tiwaryachintya@gmail.com**
+- 📫 Ping me **tiwaryachintya@gmail.com**
 
-- 📄 Know about my experiences [-resume-](-resume-)
+- 📄 My experiences [-resume-](-resume-)
 
 <h3 align="left">My profiles:</h3>
 <p align="left">
