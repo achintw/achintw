@@ -1,13 +1,21 @@
 <h1 align="center">I'm Achint Tiwary</h1>
-<h3 align="center">Experience what I can do, dive in.</h3>
+<!-- <h3 align="center">Experience what I can do, dive in.</h3>
 
-- 👨‍💻 All of my projects are available at [-my works-](-my works-)
+<div>
+  - 👨‍💻 All of my projects are available at [-my works-](-my works-)
+</div> -->
 
-- 📫 How to reach me **tiwaryachintya@gmail.com**
+- 📫 Ping me **tiwaryachintya@gmail.com**
 
-- 📄 Know about my experiences [-resume-](-resume-)
+- 📄 My experiences [-resume-](-resume-)
 
-<h3 align="left">My profiles:</h3>
+<h3 align="left">My Profiles:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/achintya-tiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achintya-tiwary" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/biryanisalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="biryanisalan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
   <!-- Languages -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>&nbsp;
